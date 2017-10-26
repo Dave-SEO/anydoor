@@ -21,7 +21,10 @@
     "url": "https://github.com/Dave-SEO/anydoor/issues"
   },
   "homepage": "https://github.com/Dave-SEO/anydoor#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0",
     "pre-commit": "^1.2.2"
   }
 }
