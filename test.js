@@ -1,2 +1,2 @@
-window.add
-console;
+window.addEventListener;
+console.log(1)
