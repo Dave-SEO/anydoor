@@ -1,2 +1,1 @@
-window.addEventListener;
-console.log(1)
+global;
